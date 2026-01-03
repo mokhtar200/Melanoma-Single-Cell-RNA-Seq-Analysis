@@ -12,7 +12,6 @@ This project aims to **characterize the tumor microenvironment in melanoma at si
 3. Automatic cluster annotation using **SingleR**  
 4. Differential expression analysis per cluster/cell type  
 5. Functional enrichment (GO Biological Processes, KEGG pathways)
-> **Note:** Keep raw data out of GitHub; use `.gitignore` for the `data/` folder.
 
 ---
 
